@@ -14,9 +14,12 @@ set(SOURCE_FILES
 
 #target_link_libraries(<math.h> m)
 
+#add_subdirectory (Programming in C)
+
 add_executable(main main.cpp)
 add_executable(getchar getchar.c)
 add_executable(more01 more01.c)
 add_executable(argu print_all_arguments.c)
 add_executable(chars chars.c)
 add_executable(ch4 ch4.c)
+add_executable(ch5 ch5.c)
