@@ -1,6 +1,4 @@
-//
-// Created by Tech_Ministry on 1/4/16.
-//
+
 /* more01.c  - version 0.1 of more
  *	read and print 24 lines then pause for a few special commands
  */

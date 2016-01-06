@@ -1,6 +1,3 @@
-//
-// Created by Tech_Ministry on 1/4/16.
-//
 
 #include	<stdio.h>
 
